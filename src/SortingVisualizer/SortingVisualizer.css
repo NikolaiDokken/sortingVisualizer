@@ -1,0 +1,12 @@
+.bar-container {
+  display: flex;
+  flex-direction: row;
+  margin: 0 10%;
+}
+
+.bar {
+  background-color: aquamarine;
+  margin: 0 2px;
+  bottom: 0;
+  text-align: center;
+}
