@@ -10,3 +10,11 @@
   bottom: 0;
   text-align: center;
 }
+
+.comparing {
+  background-color: brown;
+}
+
+.sorted {
+  background-color: blueviolet;
+}
